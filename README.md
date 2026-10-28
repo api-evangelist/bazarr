@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bazarr is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://bazarr.media/
+Bazarr is an open-source companion application for Sonarr and Radarr that automates subtitle management. It searches for missing subtitles, downloads them in the desired language, and can upgrade existing subtitles automatically. Available for Linux, Windows, and macOS, Bazarr runs from Python sources, Docker containers, or as a service, offering automatic updates and extensive configuration options. The project includes a web-based UI, Discord community, and extensive documentation to help users integrate subtitle handling into their media workflows.
+
+**Areas:** Subtitle · Media · Open-Source · Automation · Docker · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.bazarr.media/)
+- [Documentation](https://wiki.bazarr.media/)
+- [Getting started](http://wiki.bazarr.media/Getting-Started/First-time-installation-configuration/)
+- [Support](https://discord.com/invite/bazarr)
+- [Changelog](https://github.com/bazarr/bazarr.github.io/releases/latest/download/bazarr.zip)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/bazarr/](https://apis.io/providers/bazarr/).
